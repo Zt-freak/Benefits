@@ -1,0 +1,10 @@
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\obj\Debug\Bijslag.csprojAssemblyReference.cache
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\obj\Debug\Bijslag.Properties.Resources.resources
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\obj\Debug\Bijslag.csproj.GenerateResource.cache
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\obj\Debug\Bijslag.csproj.CoreCompileInputs.cache
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\bin\Debug\Bijslag.exe.config
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\bin\Debug\Bijslag.exe
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\bin\Debug\Bijslag.pdb
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\obj\Debug\Bijslag.exe
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\obj\Debug\Bijslag.pdb
+C:\Users\bnkho\source\repos\Bijslag\Bijslag\obj\Debug\Bijslag.Form1.resources
